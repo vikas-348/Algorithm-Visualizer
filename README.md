@@ -55,7 +55,8 @@ providing effective understanding to the users.
      npm install
      npm run watch
      ```
-  8.To begin, visit https://algorithm-visualizer.org/ and navigate to the algorithm section. Select the specific algorithm you wish to visualize. Once you have chosen an algorithm, copy and paste its corresponding code into the provided "code.js" box on the left side of the page. Next, click on the "build" button to initiate the visualization process. Finally, click on the "play" button to start the visualization of the selected algorithm.   
+### Now UI is Ready
+To begin, visit https://algorithm-visualizer.org/ and navigate to the algorithm section. Select the specific algorithm you wish to visualize. Once you have       chosen an algorithm, copy and paste its corresponding code into the provided "code.js" box on the left side of the page. Next, click on the "build" button to     initiate the visualization process. Finally, click on the "play" button to start the visualization of the selected algorithm.   
 ## Project Screenshots
 **Home Page:**
 It gives a general Information regarding to the website and users have to login or Signup to access the Website.
