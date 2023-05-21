@@ -97,9 +97,7 @@ To begin, visit https://algorithm-visualizer.org/ and navigate to the algorithm 
 
 ## Documentations:
 
-- [Logbook](https://github.com/parthd06/Python-Classroom_Management_System/blob/main/Extras/reports/Python_Mini_Project_Logbook_Group5.docx)
+- [Project Ppt](https://github.com/vikas-348/Algorithm-Visualizer/blob/main/Images/FINAL_BE_REPORT%20(1).pdf)
 
-- [Project Ppt](https://github.com/parthd06/Python-Classroom_Management_System/blob/main/Extras/reports/Python_Mini_Project_Presentation_Group5.pptx)
-
-- [Final Report](https://github.com/parthd06/Python-Classroom_Management_System/blob/main/Extras/reports/Python_Mini_Project_Report_Group5.docx)
+- [Final Report](https://github.com/vikas-348/Algorithm-Visualizer/blob/main/Images/Final%20Algorithm%20Visualizer%20PPT%202022-23.pptx)
 
