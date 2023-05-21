@@ -97,7 +97,7 @@ To begin, visit https://algorithm-visualizer.org/ and navigate to the algorithm 
 
 ## Documentations:
 
-- [Project Ppt](https://github.com/vikas-348/Algorithm-Visualizer/blob/main/Images/FINAL_BE_REPORT%20(1).pdf)
+- [Project Report](https://github.com/vikas-348/Algorithm-Visualizer/blob/main/Images/FINAL_BE_REPORT%20(1).pdf)
 
-- [Final Report](https://github.com/vikas-348/Algorithm-Visualizer/blob/main/Images/Final%20Algorithm%20Visualizer%20PPT%202022-23.pptx)
+- [Project PPT](https://github.com/vikas-348/Algorithm-Visualizer/blob/main/Images/Final%20Algorithm%20Visualizer%20PPT%202022-23.pptx)
 
