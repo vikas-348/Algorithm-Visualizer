@@ -1,9 +1,3 @@
-<style>
-body {
-  text-align: justify;
-}
-</style>
-
 # Algorithm-Visualizer
 Algorithm visualization illustrates how algorithms and Advance data structure work in a
 graphical way. It mainly aims to simplify and deepen the understanding of algorithm opera-
@@ -20,16 +14,12 @@ Various functionalities are provided based on the user category either student/t
 
 ## Group Members
 
- - [@parthdali](https://github.com/parthd06)
- - [@pranavdalvi](https://github.com/PRANAVD-10)
- - [@vikaschaurasiya](https://github.com/vikas-348)
- - [@himanshuchaurasiya](https://github.com/Himanshuchaurasiya1234)
+ - [@Vikas Chaurasiya](https://github.com/vikas-348)
+ - [@Mukesh Gupta](https://github.com/mukesh2001)
+ - [@Ashly John](https://github.com/ADJ46)
+ - [@Himanshu Chaurasiya](https://github.com/Himanshuchaurasiya1234)
 
-## System Design & Flow Chart
 
-![System Design](https://github.com/parthd06/Python-Classroom_Management_System/blob/main/Extras/Screenshot/SystemDesign.png)
-
-![Flow Chart](https://github.com/parthd06/Python-Classroom_Management_System/blob/main/Extras/Screenshot/Flowchart.png)
 
 ## Project Screenshots
 **Home Page:**
