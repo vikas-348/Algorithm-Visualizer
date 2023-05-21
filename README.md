@@ -1,3 +1,9 @@
+<style>
+body {
+  text-align: justify;
+}
+</style>
+
 # Algorithm-Visualizer
 Algorithm visualization illustrates how algorithms and Advance data structure work in a
 graphical way. It mainly aims to simplify and deepen the understanding of algorithm opera-
