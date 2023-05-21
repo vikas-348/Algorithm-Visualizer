@@ -1,3 +1,4 @@
+## Matrix Chain Multiplication Visualization Code
 ```bash
 // import visualization libraries {
 const { Tracer, Array1DTracer, Array2DTracer, LogTracer, Layout, VerticalLayout } = require('algorithm-visualizer');
