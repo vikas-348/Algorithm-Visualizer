@@ -95,20 +95,6 @@ To begin, visit https://algorithm-visualizer.org/ and navigate to the algorithm 
 
     •	Web Browser: Google Chrome 
 
-## Conclusion:
-
-- The goal of the project is to create a user friendly website and help E-learning/ virtual learning by making it easy and efficient for students and teachers. 
-
-- Throughout this semester the team has decided and finalized the project topic and worked on its plan, design and how it has to be implemented while following the project guidelines.
-
-## Future Scope:
-
-    •	To group classes for one subject under one category.
-
-    •	To add a feature to grade marks automatically based on the experiments.
-
-    •	Users can create separate rooms/groups for discussion on a particular topic.
-
 ## Documentations:
 
 - [Logbook](https://github.com/parthd06/Python-Classroom_Management_System/blob/main/Extras/reports/Python_Mini_Project_Logbook_Group5.docx)
@@ -117,10 +103,3 @@ To begin, visit https://algorithm-visualizer.org/ and navigate to the algorithm 
 
 - [Final Report](https://github.com/parthd06/Python-Classroom_Management_System/blob/main/Extras/reports/Python_Mini_Project_Report_Group5.docx)
 
-## References:
-
-- https://www.upgrad.com/blog/python­projects­ideas­topics­beginners/ 
-
-- https://code-projects.org/school-management-system-using-django-framework/
-
-- https://django-sis.readthedocs.io/en/latest/
