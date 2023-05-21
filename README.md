@@ -7,20 +7,55 @@ Revisit topics multiple times and practice.Every software engineer should have a
 derstanding of Algorithms to develop efficient software. Visualizers have a good history of
 providing effective understanding to the users.
 
-## Problem Statement:
-To create a Classroom Management System using Python and Django. 
-It is an integrated web application that handles various academic and non-academic activities of a College/ Academic Institute which can be accessed by student/teacher through internet connected devices. 
-Various functionalities are provided based on the user category either student/teacher. It will have a friendly user interface and would help maintain records of each students.
-
 ## Group Members
 
  - [@Vikas Chaurasiya](https://github.com/vikas-348)
  - [@Mukesh Gupta](https://github.com/mukesh2001)
  - [@Ashly John](https://github.com/ADJ46)
  - [@Himanshu Chaurasiya](https://github.com/Himanshuchaurasiya1234)
+### Are you a first-timer in contributing to open source? These guidelines from GitHub might help!
 
+## Running Locally
+1. Create a New_Folder and clone Alogorithm-visualizer and Server within New_Folder.
+2. Fork this repository.
 
+3. Clone your forked repo to your New_Folder (Alogorithm-visualizer).
 
+    ```bash
+    git clone https://github.com/<your-username>/algorithm-visualizer.git    
+    ```
+ 4. Install dependencies, and run the web app.
+
+    ```bash
+    cd algorithm-visualizer
+    npm install
+    npm uninstall -g sass
+    npm i node-sass@4.14.0
+    npm start
+    ```
+  5.  Clone your forked repo to your New_Folder (Server).
+      ```bash
+      git clone https://github.com/<your-username>/algorithm-visualizer.git   
+      ```
+
+ 
+    
+  6. Create `.env.local` in your Server project root:
+      ```bash
+      # By putting dummy values, GitHub sign in will not work locally
+      GITHUB_CLIENT_ID = dummy
+      GITHUB_CLIENT_SECRET = dummy
+
+      # By putting dummy values, extracting visualizing commands will not work locally (except for JavaScript).
+      AWS_ACCESS_KEY_ID = dummy
+      AWS_SECRET_ACCESS_KEY = dummy
+       ```
+  7. Install dependencies, and run the Server.
+     ```bash
+     npm install
+     npm run watch
+     ```
+  8.To begin, visit https://algorithm-visualizer.org/ and navigate to the algorithm section. Select the specific algorithm you wish to visualize. Once you have chosen an algorithm, copy and paste its corresponding code into the provided "code.js" box on the left side of the page. Next, click on the "build" button to initiate the visualization process. Finally, click on the "play" button to start the visualization of the selected algorithm.   
 ## Project Screenshots
 **Home Page:**
 It gives a general Information regarding to the website and users have to login or Signup to access the Website.
