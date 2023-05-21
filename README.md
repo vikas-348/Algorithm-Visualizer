@@ -59,35 +59,19 @@ providing effective understanding to the users.
 To begin, visit https://algorithm-visualizer.org/ and navigate to the algorithm section. Select the specific algorithm you wish to visualize. Once you have       chosen an algorithm, copy and paste its corresponding code into the provided "code.js" box on the left side of the page. Next, click on the "build" button to     initiate the visualization process. Finally, click on the "play" button to start the visualization of the selected algorithm.   
 ## Project Screenshots
 **Home Page:**
-It gives a general Information regarding to the website and users have to login or Signup to access the Website.
 
-![Home Page](https://github.com/parthd06/Python-Classroom_Management_System/blob/main/Extras/Screenshot/ss1.png)
+![Home Page](https://github.com/vikas-348/Algorithm-Visualizer/blob/main/Images/HomePage.png)
 
-![Home Page](https://github.com/parthd06/Python-Classroom_Management_System/blob/main/Extras/Screenshot/ss2.png)
 
-**Sign Up page:** 
-There are two user’s option while signing up. One is for Student’s and one is for Teacher’s. 
+**Matrix Chain Multiplication:** 
+ 
 
-![Main Page](https://github.com/parthd06/Python-Classroom_Management_System/blob/main/Extras/Screenshot/ss3.png)
+![Matrix Chain Multiplication](https://github.com/vikas-348/Algorithm-Visualizer/blob/main/Images/MatrixChainMultiplication.png)
 
-- Both the user’s have to fill a form based on their category. User can register by giving their Name, Username, Email, and Password. All this data will be stored in the database.
+**Matrix Chain Multiplication Result:**
 
-  ![User Data](https://github.com/parthd06/Python-Classroom_Management_System/blob/main/Extras/Screenshot/ss4.png)
 
-**Login page:**
-Already registered users can login directly with their username and password to access the website. 
-
-![Login Page](https://github.com/parthd06/Python-Classroom_Management_System/blob/main/Extras/Screenshot/ss5.png)
-
-**Student Page:**
-For a login through a student’s account the following are the different functions/options provided. A student can access them based on their requirements.
-
-![Student Page](https://github.com/parthd06/Python-Classroom_Management_System/blob/main/Extras/Screenshot/ss6.png)
-
-**Teacher Page:** 
-For a login through a Teacher’s account the following are the different functions/options provided. A Teacher can access them based on their requirements.
-
-![Teacher Page](https://github.com/parthd06/Python-Classroom_Management_System/blob/main/Extras/Screenshot/ss7.png)
+![Matrix Chain Multiplication](https://github.com/vikas-348/Algorithm-Visualizer/blob/main/Images/MatrixChainMultiplicationResult.png)
 
 ## System Requirements
 
@@ -103,9 +87,7 @@ For a login through a Teacher’s account the following are the different functi
 
 **Software requirements:**
 
-    •	Front-End Design: HTML, CSS, JavaScript
-
-    •	Back-End & Database: Django(Python), PostgreSQL
+    •	Front-End Design: HTML, CSS, JavaScript, Reactjs
 
     •	Operating System: Windows 7 or higher
 
